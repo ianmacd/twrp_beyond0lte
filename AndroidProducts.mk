@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_beyond1lte.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_beyond0lte.mk
 

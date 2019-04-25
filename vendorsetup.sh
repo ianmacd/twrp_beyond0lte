@@ -14,5 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_beyond1lte-eng
-
+add_lunch_combo omni_beyond0lte-eng
